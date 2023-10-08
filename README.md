@@ -1,18 +1,19 @@
-# Boas-vindas ao repositório do projeto Carrinho de Compras!
+# Projeto Shopping Cart!
 
-Para realizar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
+<summary><strong>Descrição:</strong></summary><br />
+EasyShop Sim é um simulador envolvente de compras online, projetado para aprimorar suas habilidades virtuais de compra. Com um catálogo realista, navegação simulada e pagamento fictício, oferecemos uma experiência autêntica de compras online diretamente no seu navegador.
 
-# Termos e acordos
+<summary><strong>Requisitos do Sistema:</strong></summary><br />
 
-Ao iniciar este projeto, você concorda com as diretrizes do [Código de Conduta e do Manual da Pessoa Estudante da Trybe](https://app.betrybe.com/manual-estudante/codigo-de-etica-e-conduta).
+<ul>
+  <li>Navegadores Suportados: Chrome, Firefox, Safari, Edge, etc.</li>
+</ul> 
 
-# Entregáveis
+<summary><strong>Como Acessar:</strong></summary><br />
 
-<details>
-  <summary><strong>🤷🏽‍♀️ Como entregar</strong></summary><br />
-
-  Para entregar o seu projeto você deverá criar um *Pull Request* neste repositório.
-
-  Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://app.betrybe.com/course/4d67f5b4-34a6-489f-a205-b6c7dc50fc16/) e nosso [Blog - Git & GitHub](https://blog.betrybe.com/tecnologia/git-e-github/) sempre que precisar!
-</details>
+<ol>
+  <li>Visite EasyShop Sim.</li>
+  <li>Explore o catálogo, adicione itens ao carrinho.
+</li>
+  <li>Simule a experiência de uma compra</li>
+</ol>  
