@@ -12,7 +12,7 @@ EasyShop Sim é um simulador envolvente de compras online, projetado para aprimo
 
 <summary><strong>Como Acessar:</strong></summary><br />
 <ol>
-  <li>Visite EasyShop Sim.</li>
+  <li>Visite https://talescamelo-shopping-cart.netlify.app/</li>
   <li>Explore o catálogo, adicione itens ao carrinho.
 </li>
   <li>Simule a experiência de uma compra</li>
