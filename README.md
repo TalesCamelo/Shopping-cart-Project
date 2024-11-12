@@ -3,6 +3,12 @@
 <summary><strong>Descrição:</strong></summary><br />
 EasyShop Sim é um simulador envolvente de compras online, projetado para aprimorar suas habilidades virtuais de compra. Com um catálogo realista, navegação simulada e pagamento fictício, oferecemos uma experiência autêntica de compras online diretamente no seu navegador.
 <br />
+<br />
+
+<summary><strong>Stacks:</strong></summary><br />
+<ul>
+  <li>HTML, CSS, JavaScript, consumindo API do mercado livre</li>
+</ul> 
 
 <summary><strong>Requisitos do Sistema:</strong></summary><br />
 
